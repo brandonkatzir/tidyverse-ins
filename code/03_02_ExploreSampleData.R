@@ -74,6 +74,8 @@ p_data(survival)      # Survival analysis
 p_data(titanic)       # Titanic survival data
 p_data(vcd)           # Visualizing categorical data
 
+??Lahman
+
 # CLEAN UP #################################################
 
 # Clear environment
